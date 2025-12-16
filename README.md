@@ -1,4 +1,4 @@
-# 🕷️ Spiderbot - Bio-Inspired Quadruped Robot
+# 🕷️ Bio-Inspired Quadruped Spiderbot
 
 <div align="center">
 
